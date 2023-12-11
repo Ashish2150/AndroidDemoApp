@@ -1,2 +1,3 @@
 Learning Basics Of Android 
-Testing the code..
+
+- Design th UI just for testing purpose.
